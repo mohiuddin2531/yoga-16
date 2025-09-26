@@ -5,11 +5,11 @@
 **Authors**: 
 - Mohammed Mohiuddin, B.Sc (First Author)
 - Syed Mohammod Minhaz Hossain
-- Prionkar Barua, B.Sc
 - Sumaiya Khanam, B.Sc
+- Prionkar Barua, B.Sc
 - Aparup Barua, B.Sc
 - MD Tamim Hossain, B.Sc
-- Iqbal H. Sarker, Ph.D
+
 
 **Affiliation**: Premier University
 
